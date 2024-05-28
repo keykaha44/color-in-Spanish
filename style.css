@@ -1,0 +1,42 @@
+* {
+    background-color: dimgrey;
+    text-align: center;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+#intro {
+    font-weight: bolder;
+    color: honeydew;
+}
+
+.color-title {
+    font-weight: normal;
+}
+
+#red {
+    color: red;
+}
+
+#blue {
+    color: blue;
+}
+
+#orange {
+    color: orange;
+}
+
+#green {
+    color: green;
+}
+
+#yellow {
+    color: yellow;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
